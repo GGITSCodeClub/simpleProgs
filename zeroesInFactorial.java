@@ -1,3 +1,4 @@
+//Finding Number of Zeroes in the factorial of the given number.
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
