@@ -1,9 +1,9 @@
-
+//using recursion
 import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class fibonacci 
+public class fiboUsingRecursion 
 {
     static int memo[] = new int[1000],f;
     public static void main(String[] args) 
